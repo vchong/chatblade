@@ -1,9 +1,8 @@
-# PROJECT ARCHIVED
+# 🗄️ Project Archived (No Longer Maintained)
 
 Chatblade is now archived and no longer under active development. It did its job in the early days of LLM tooling, but today you’re generally better off using Claude Code or Codex directly.
 
-If you’re looking for a modern CLI in the same spirit, I recommend `llm` ([https://github.com/simonw/llm](https://github.com/simonw/llm)) or Fabric ([https://github.com/danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)).
-
+If you’re looking for a modern CLI in the same spirit, I recommend `llm` (https://github.com/simonw/llm) or Fabric (https://github.com/danielmiessler/Fabric).
 
 
 # Chatblade
